@@ -1,0 +1,10 @@
+body{background-color:#7799ff}
+header {color:#ffff00; text-align:center;font-size:6em}
+
+
+nav {background-color #772222; display: inline-block;font-size:2em;border: 5px solid red;}
+
+p {width:10%;height:20%background-color #772222; display: inline-block;font-size:2em;border: 5px solid red;}
+figcaption{color:#000000; text-align:left;font-size:1em;font-weight:700;}
+img {width:100%;height:100%}
+/*article {color:#ffdd00; text-align:left;font-size:3em}*/
